@@ -466,6 +466,7 @@ function normalize(v,vmin,vmax,tmin, tmax){
   return tv;
 }
 
+
 function init(event){
   document.addEventListener('mousemove', handleMouseMove, false);
   createScene();

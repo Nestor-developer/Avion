@@ -483,6 +483,7 @@ Sea = function(){
 
   this.waves = [];
 
+  
   for (var i=0;i<l;i++){
     var v = geom.vertices[i];
     //v.y = Math.random()*30;
